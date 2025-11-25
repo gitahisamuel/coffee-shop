@@ -8,5 +8,9 @@ class Order:
         self.price = price
 
 
+    def __init__(self):
+        pass    
+
+
 customer = Customer()
 coffee = Coffee()
